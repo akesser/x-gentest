@@ -1,0 +1,6 @@
+uasage:
+
+
+```bash
+go generate
+```
